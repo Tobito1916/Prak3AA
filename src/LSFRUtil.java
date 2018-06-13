@@ -36,7 +36,7 @@ public class LSFRUtil implements LSFRInterface{
         int ergebnis = 0;
         String debug ="";
         for (int p = 0; p <pos.length; p++){
-            debug = debug + pos[p]+ " ";
+            debug = debug + posit[p]+ " ";
 
         }
         System.out.println(debug);
